@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttServer", "MqttServer\MqttServer.csproj", "{FC639470-947F-4262-936A-D138A415C89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC639470-947F-4262-936A-D138A415C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC639470-947F-4262-936A-D138A415C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC639470-947F-4262-936A-D138A415C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC639470-947F-4262-936A-D138A415C89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

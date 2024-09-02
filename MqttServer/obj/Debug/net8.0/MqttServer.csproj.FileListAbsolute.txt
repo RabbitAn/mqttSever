@@ -1,0 +1,17 @@
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MqttServer.exe
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MqttServer.deps.json
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MqttServer.runtimeconfig.json
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MqttServer.dll
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MqttServer.pdb
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.AssemblyInfo.cs
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.csproj.Up2Date
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.dll
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\refint\MqttServer.dll
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.pdb
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\MqttServer.genruntimeconfig.cache
+C:\Users\Computer\Desktop\test\MqttServer\MqttServer\obj\Debug\net8.0\ref\MqttServer.dll
